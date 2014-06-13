@@ -24,3 +24,6 @@ settings.cfg
 
 #virtualenv
 venv
+
+#IDEA
+.idea
