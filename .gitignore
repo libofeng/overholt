@@ -21,3 +21,6 @@ Berksfile.lock
 .webassets-cache
 instance
 settings.cfg
+
+#virtualenv
+venv
