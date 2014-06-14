@@ -6,7 +6,6 @@
     Product forms
 """
 
-# from flask_wtf import Form, TextField, SelectMultipleField, Required, Optional
 from flask_wtf import Form
 from wtforms import StringField, SelectMultipleField
 from wtforms.validators import DataRequired, Optional
